@@ -1,13 +1,26 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Understanding Groundwater Drought: A Hidden Crisis Beneath Our Feet
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
-author: Sharon Smith and Barry Simpson
+author: Tarig Mohamed
 ---
+
+
+When we think about drought, images of dry riverbeds, parched fields, and empty reservoirs often come to mind. While these surface-level impacts are critical, they represent only part of the story. Beneath the surface lies a slower, often less visible crisis—**groundwater drought**.
+
+### What is Groundwater Drought?
+
+Groundwater drought refers to prolonged periods during which groundwater levels fall below their normal range due to reduced recharge or increased abstraction. Unlike meteorological droughts, driven by short-term rainfall deficits, groundwater droughts are more complex and slower to develop. They result from a combination of natural processes and human activities, such as:
+
+- **Prolonged rainfall shortages:** Reduced precipitation decreases the recharge of aquifers.
+- **Land use changes:** Urbanization and deforestation affect infiltration rates and groundwater replenishment.
+- **Over-extraction:** Excessive pumping for agriculture, industry, or domestic use lowers water tables.
+
+This slow onset means groundwater droughts can persist long after rainfall has returned, making them particularly challenging to manage.
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
 
