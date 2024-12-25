@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Groundwater Drought: A Hidden Crisis Beneath Our Feet
+title: Understanding Groundwater Drought
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
