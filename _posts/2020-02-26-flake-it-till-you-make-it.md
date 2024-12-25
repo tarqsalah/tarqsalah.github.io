@@ -16,9 +16,9 @@ When we think about drought, images of dry riverbeds, parched fields, and empty 
 
 Groundwater drought refers to prolonged periods during which groundwater levels fall below their normal range due to reduced recharge or increased abstraction. Unlike meteorological droughts, driven by short-term rainfall deficits, groundwater droughts are more complex and slower to develop. They result from a combination of natural processes and human activities, such as:
 
-- **Prolonged rainfall shortages:** Reduced precipitation decreases the recharge of aquifers.
-- **Land use changes:** Urbanization and deforestation affect infiltration rates and groundwater replenishment.
-- **Over-extraction:** Excessive pumping for agriculture, industry, or domestic use lowers water tables.
+**Prolonged rainfall shortages:** Reduced precipitation decreases the recharge of aquifers.
+**Land use changes:** Urbanization and deforestation affect infiltration rates and groundwater replenishment.
+**Over-extraction:** Excessive pumping for agriculture, industry, or domestic use lowers water tables.
 
 This slow onset means groundwater droughts can persist long after rainfall has returned, making them particularly challenging to manage.
 
